@@ -23,8 +23,8 @@
 ### - Spring Framework, Spring Boot,Java Core
 ### - REST API, Maven, Gradle
 ### - MsSQL, PostgresSQL, MicrosoftSQL Server
-### - Docker/Docker-Compose,XML/JSON, GIT, Linux
-### - Algorithms and Data Structures,UML diagrams
+### - Docker/Docker-Compose, XML/JSON, GIT, Linux
+### - Algorithms and Data Structures, UML diagrams
 ### - English – Pre Intermediate
 
 ## My experience:
