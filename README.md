@@ -4,14 +4,17 @@
 
 ## My contact information
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/erkinbek-talaibekov-659b19208/?locale=en_US"> <img src="https://thumbs.dreamstime.com/b/linkedin-social-media-icon-logo-vector-element-white-background-social-media-logos-suitable-mobile-apps-web-apps-print-142153162.jpg"
+<div align="left">
+    <a href="https://www.linkedin.com/in/erkinbek-talaibekov-659b19208/?locale=en_US"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
         alt="alt text" width="50" height="50" border="10"/></a>
-    <a href="https://www.instagram.com/mister_r1307/"> <img src="https://w7.pngwing.com/pngs/789/603/png-transparent-computer-icons-social-media-logo-social-media-black-thumbnail.png"
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/mister_r1307/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
         alt="alt text" width="50" height="50" border="10"/></a>
-    <a href="https://t.me/Erk13"> <img src="https://w7.pngwing.com/pngs/508/998/png-transparent-telegram-computer-icons-logo-android-angle-triangle-monochrome-thumbnail.png"
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/Erk13"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png"
         alt="alt text" width="50" height="50" border="10"/></a>
-    <a href="https://erkin1399@gmail.com"> <img src="https://w7.pngwing.com/pngs/838/377/png-transparent-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png"
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://erkin1399@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png"
         alt="alt text" width="50" height="50" border="10"/></a>
 </div>
 
