@@ -2,10 +2,10 @@
 
 I'm Java Developer
 
-##Kompanion Bank | Junior Java Developer | 03.2020 - 07.2020
+## Kompanion Bank | Junior Java Developer | 03.2020 - 07.2020
 Company website - https://www.kompanion.kg/ru/
 
-#Development of internal services:
+# Development of internal services:
 - Report generation (writing selects on Microsoft SQL Server)
 - Development microservices on Spring Boot
 
