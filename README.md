@@ -13,9 +13,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/Erk13"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png"
         alt="alt text" width="50" height="50" border="10"/></a>
-    <br>
-    <b>erkin1399@gmail.com</b>
 </div>
+
+### erkin1399@gmail.com
 
 ## My skills:
 
