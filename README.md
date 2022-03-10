@@ -2,8 +2,39 @@
 
 #I'm Java Developer
 
+## My skills:
+
+### - Spring Framework, Spring Boot,Java Core
+### - REST API, Maven, Gradle
+### - MsSQL, PostgresSQL, MicrosoftSQL Server
+### - Docker/Docker-Compose,XML/JSON, GIT, Linux
+### - Algorithms and Data Structures,UML diagrams
+### - English – Pre Intermediate
+
+## My experience:
+
+## Sagax Software | Java Developer | 12.2021 - наст. время
+Company's website - https://sagax.software/
+
+### Working on Axon project
+- Learn and development services on Spring Boot
+- Coverage project by unit tests from scratch
+- Add components in React application
+
+## MegaCom(ЗАО "Альфа Телеком") | Java Software Developer | 05.2021 - 11.2021
+Company's website - https://www.megacom.kg/?locale=ru
+Product labeling system's website- https://main.teksher.kg/
+
+### Writing modules for payment system: 
+- Adding services to online purse using Spring Framework 
+- Small services on Spring Boot to optimize work 
+### Support and development project "National digital identification product labeling system in the Kyrgyz Republic": 
+- Support projects on Spring Framework, Gradle, PostgresSQL
+- Preparation of technical documentation for services in Confluence
+- Opitmazing work in new project, particularly creating applications for reports
+
 ## Kompanion Bank | Junior Java Developer | 03.2020 - 07.2020
-Company website - https://www.kompanion.kg/ru/
+Company's website - https://www.kompanion.kg/ru/
 
 ### Development of internal services:
 - Report generation (writing selects on Microsoft SQL Server)
