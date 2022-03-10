@@ -25,7 +25,7 @@
 ### - Docker/Docker-Compose, XML/JSON, GIT, Linux
 ### - Algorithms and Data Structures, UML diagrams
 ### - English – Pre Intermediate
-
+<!-- 
 ## My experience:
 
 ## Sagax Software | Java Developer | 12.2021 - наст. время
@@ -53,7 +53,7 @@ Company's website - https://www.kompanion.kg/ru/
 
 ### Development of internal services:
 - Report generation (writing selects on Microsoft SQL Server)
-- Development microservices on Spring Boot
+- Development microservices on Spring Boot -->
 
 
 
