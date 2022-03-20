@@ -42,6 +42,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERERkin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=ERERkin&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 ---
 
 <!-- ### - Spring Framework, Spring Boot,Java Core
