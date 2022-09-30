@@ -44,6 +44,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERERkin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/erkin1399?theme=dark)]
+
 <!-- [![Leetcode Stats](https://leetcode.card.workers.dev/?username=erkin1399)](https://leetcode.com/erkin1399) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=ERERkin&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
