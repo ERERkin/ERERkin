@@ -24,14 +24,13 @@
 
 ## 🛠 &nbsp;Languages and Tools :
 
+
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;&nbsp;&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="70" height="70"/>&nbsp;&nbsp;&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" title="gRPC" alt="gRPC" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="phoenix"  alt="phoenix" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" title="Maven" alt="Maven" width="140" height="70"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;&nbsp;&nbsp; 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="70" height="70"/>&nbsp;&nbsp;&nbsp;  
 </p>
@@ -52,64 +51,4 @@
  -->
 ---
 
-<!-- ### - Spring Framework, Spring Boot,Java Core
-### - REST API, Maven, Gradle
-### - MsSQL, PostgresSQL, MicrosoftSQL Server
-### - Docker/Docker-Compose, XML/JSON, GIT, Linux
-### - Algorithms and Data Structures, UML diagrams
-### - English – Pre Intermediate -->
-<!-- 
-## My experience:
 
-## Sagax Software | Java Developer | 12.2021 - наст. время
-Company's website - https://sagax.software/
-
-### Working on Axon project
-- Learn and development services on Spring Boot
-- Coverage project by unit tests from scratch
-- Add components in React application
-
-## MegaCom(ЗАО "Альфа Телеком") | Java Software Developer | 05.2021 - 11.2021
-Company's website - https://www.megacom.kg/?locale=ru
-Product labeling system's website- https://main.teksher.kg/
-
-### Writing modules for payment system: 
-- Adding services to online purse using Spring Framework 
-- Small services on Spring Boot to optimize work 
-### Support and development project "National digital identification product labeling system in the Kyrgyz Republic": 
-- Support projects on Spring Framework, Gradle, PostgresSQL
-- Preparation of technical documentation for services in Confluence
-- Opitmazing work in new project, particularly creating applications for reports
-
-## Kompanion Bank | Junior Java Developer | 03.2020 - 07.2020
-Company's website - https://www.kompanion.kg/ru/
-
-### Development of internal services:
-- Report generation (writing selects on Microsoft SQL Server)
-- Development microservices on Spring Boot -->
-
-
-
-<!--
-**ERERkin/ERERkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Inteliji Idea" alt="Inteliji Idea" width="80" height="80"/>&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Git" width="70" height="70"/>&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="https://logodix.com/logo/1614477.png" title="SpringBoot" alt="SpringBoot" width="70" height="70"/>&nbsp;&nbsp;&nbsp; -->
