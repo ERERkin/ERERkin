@@ -37,11 +37,11 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
+<!-- ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ERERkin&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERERkin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERERkin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/erkin1399?theme=dark)] -->
 
@@ -49,6 +49,5 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=ERERkin&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
----
 
 
